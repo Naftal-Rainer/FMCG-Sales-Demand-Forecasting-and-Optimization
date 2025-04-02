@@ -16,4 +16,4 @@ Designed for demand forecasting, inventory management, and cost optimization, th
 * 'Replenishment_Lead_Time' - Time (in days) it takes to replenish stock.
 * 'Stock_Level' - The number of units in stock for each product.
 
-#### [Data Source]( https://www.kaggle.com/datasets/krishanukalita/fmcg-sales-demand-forecasting-and-optimization/data)
+##### [Data Source: Kaggle]( https://www.kaggle.com/datasets/krishanukalita/fmcg-sales-demand-forecasting-and-optimization/data)
