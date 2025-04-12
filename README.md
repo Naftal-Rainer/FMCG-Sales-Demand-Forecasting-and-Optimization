@@ -17,3 +17,10 @@ Designed for demand forecasting, inventory management, and cost optimization, th
 * 'Stock_Level' - The number of units in stock for each product.
 
 ##### [Data Source: Kaggle]( https://www.kaggle.com/datasets/krishanukalita/fmcg-sales-demand-forecasting-and-optimization/data)
+
+### problem Description
+Use the data to understand demand across variouse categories and strategic optimization of rsources to  maximize returns. 
+In this process we will answer the following questions:
+- Which is the most valuable category
+- What is the notable sales trend.
+- Which days have the most sales.
